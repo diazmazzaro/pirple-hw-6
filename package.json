@@ -1,0 +1,22 @@
+{
+  "name": "pirple-hw-1",
+  "version": "1.0.0",
+  "description": "Pirple Homework Assignment #1",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/diazmazzaro/pirple-hw-1.git"
+  },
+  "keywords": [
+    "pirple"
+  ],
+  "author": "pdm",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/diazmazzaro/pirple-hw-1/issues"
+  },
+  "homepage": "https://github.com/diazmazzaro/pirple-hw-1#readme"
+}
